@@ -1,15 +1,8 @@
-# Hi there, I'm Arunkumar D! 👋
-
-## 💫 About Me:
+# Hi there,💫I'm Arunkumar D!👋
 Innovative coder with a work ethic as robust as my knack for lightning-quick learning.
-
-### 🔭 Currently working on:
-- [Project Name 1]
-- [Project Name 2]
-
 ### 🌱 Currently learning:
-- [Technology/Framework 1]
-- [Technology/Framework 2]
+- [Astro]
+- [Node JS]
 
 ### 👯 Looking to collaborate on:
 - Open source projects
