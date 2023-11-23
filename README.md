@@ -1,4 +1,4 @@
-<!-- # Hi there, I'm Arunkumar D! 👋
+# Hi there, I'm Arunkumar D! 👋
 
 ## 💫 About Me:
 Innovative coder with a work ethic as robust as my knack for lightning-quick learning.
@@ -52,4 +52,3 @@ He/Him
 ## ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
--->
