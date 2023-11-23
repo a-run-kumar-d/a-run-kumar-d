@@ -1,5 +1,5 @@
-### Hi there 👋
-# 💫 About Me:
+### Hi there I am Arunkumar D👋
+## 💫 About Me:
 Innovative coder with a work ethic as robust as my knack for lightning-quick learning.<br>
 
 Here are some ideas to get you started:
