@@ -26,9 +26,4 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=a-run-kumar-d&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
