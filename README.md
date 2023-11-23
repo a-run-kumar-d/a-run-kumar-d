@@ -17,13 +17,7 @@ Innovative coder with a work ethic as robust as my knack for lightning-quick lea
 - [LinkedIn](https://linkedin.com/in/a-run-kumar-d)
 - [Instagram](https://instagram.com/a_r_u_n_k_u_m_a_r0)
 - [Reddit](https://reddit.com/user/u/Arunkumar-D)
-
-### 😄 Pronouns:
-He/Him
-
-### ⚡ Fun fact:
-[Fun fact about yourself]
-
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_r_u_n_k_u_m_a_r0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a-run-kumar-d)
