@@ -1,6 +1,6 @@
 <div style="background: black; padding: 20px; color: #00E4ED">
 
-![image](banner.png)
+![image](https://i.imgur.com/wRcruqH.png)
 
 <div align="center">
 
