@@ -27,7 +27,7 @@
   
 #### 📊 GitHub Stats:
 </div>
-<div align= "center" style="display: flex; flex-direction: row; gap: 2rem; justify-content: center;">
+<div align= "center" style="display: flex; flex-direction: row; justify-content: center;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-run-kumar-d&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-run-kumar-d&theme=midnight-purple&hide_border=false)
 
